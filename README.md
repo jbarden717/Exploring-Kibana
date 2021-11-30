@@ -44,10 +44,10 @@
 
 6. Finish your investigation with a short overview of your insights. 
 
-     - What do you think the user was doing?
-     - Was the file they downloaded malicious? If not, what is the file used for?
-     - Is there anything that seems suspicious about this activity?
-     - Is any of the traffic you inspected potentially outside of compliance guidlines?
+     - What do you think the user was doing? <B>ANSWER: The user was downloading the metricbeat package for debian</B>
+     - Was the file they downloaded malicious? <B>ANSWER:No, this does not appear to be malicious </B>If not, what is the file used for? <B>ANSWER:This file is used to configure metricbeat on a web server </B>
+     - Is there anything that seems suspicious about this activity? <B>ANSWER: Only that the link for metricbeat package was on someone's facebook page</B>
+     - Is any of the traffic you inspected potentially outside of compliance guidlines? <B>ANSWER: If facebook.com/success/jay-c-buckey is not a trusted source, then this potentially is out of compliance allowing the user to download files linked from this server.</B>
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
