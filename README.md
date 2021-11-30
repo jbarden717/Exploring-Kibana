@@ -21,19 +21,19 @@
     - In the last 24 hours, of the visitors from China, how many were using Mac OSX? <B>ANSWER: 14</B>
 
     - In the last 2 days, what percentage of visitors received 404 errors? <B>ANSWER: 21</B>How about 503 errors? <B>ANSWER: 10</B>
-    - In the last 7 days, what country produced the majority of the traffic on the website?
-    - Of the traffic that's coming from that country, what time of day had the highest amount of activity?
-    - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
+    - In the last 7 days, what country produced the majority of the traffic on the website?<B>ANSWER: China - 280</B>
+    - Of the traffic that's coming from that country, what time of day had the highest amount of activity?<B>ANSWER: 12 Noon</B>
+    - List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).</br> <B>ANSWER:</br>gz - Compressed archive vile</br>css - Cascading Style Sheet file</br>zip - compressed archvie file</br>deb - debian software package file</br>rpm - Red Hat Package manager file </B>
 
 3. Now that you have a feel for the data, Let's dive a bit deeper. Look at the chart that shows Unique Visitors Vs. Average Bytes.
-     - Locate the time frame in the last 7 days with the most amount of bytes (activity).
-     - In your own words, is there anything that seems potentially strange about this activity?
+     - Locate the time frame in the last 7 days with the most amount of bytes (activity). 
+     - In your own words, is there anything that seems potentially strange about this activity?<B>ANSWER: There was a significant number of Bytes associated with a single unique visitor</B>
 
 4. Filter the data by this event.
-     - What is the timestamp for this event?
-     - What kind of file was downloaded?
-     - From what country did this activity originate?
-     - What HTTP response codes were encountered by this visitor?
+     - What is the timestamp for this event?<B>ANSWER: 11/28/21 @ 9:00PM</B>
+     - What kind of file was downloaded?<B>ANSWER: rpm - Red Hat Package Manager File</B>
+     - From what country did this activity originate? <B>ANSWER: IN - India</B>
+     - What HTTP response codes were encountered by this visitor? <B>ANSWER: 200 OK</B>
 
 5. Switch to the Kibana Discover page to see more details about this activity.
      - What is the source IP address of this activity?
