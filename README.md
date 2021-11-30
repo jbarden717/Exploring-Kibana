@@ -1,4 +1,5 @@
-## Activity File: Exploring Kibana
+## John Barden Week 13 Homework
+### Activity File: Exploring Kibana
 
 * You are a DevOps professional and have set up monitoring for one of your web servers. You are collecting all sorts of web log data and it is your job to review the data regularly to make sure everything is running smoothly. 
 
