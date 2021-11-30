@@ -36,11 +36,11 @@
      - What HTTP response codes were encountered by this visitor? <B>ANSWER: 200 OK</B>
 
 5. Switch to the Kibana Discover page to see more details about this activity.
-     - What is the source IP address of this activity?
-     - What are the geo coordinates of this activity?
-     - What OS was the source machine running?
-     - What is the full URL that was accessed?
-     - From what website did the visitor's traffic originate?
+     - What is the source IP address of this activity? <B>ANSWER: 35.143.166.159</B>
+     - What are the geo coordinates of this activity?<B>ANSWER: lat 43.34121, lon -73.6103075 </B>
+     - What OS was the source machine running? <B>ANSWER: Windows 8 </B>
+     - What is the full URL that was accessed? <B>ANSWER: https://artifacts.elastic.co/downloads/beats/metricbeat/metricbeat-6.3.2-i686.rpm</B>
+     - From what website did the visitor's traffic originate? 	<B>ANSWER: http://facebook.com/success/jay-c-buckey</B>
 
 6. Finish your investigation with a short overview of your insights. 
 
